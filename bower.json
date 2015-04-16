@@ -1,0 +1,20 @@
+{
+  "name": "keymaps",
+  "version": "0.1.0",
+  "authors": [
+    "Evan Sosenko <razorx@evansosenko.com>"
+  ],
+  "description": "Xorg keymaps.",
+  "main": "README.md",
+  "keywords": [
+    "Xorg",
+    "keymaps",
+    "xkb"
+  ],
+  "license": "Public Domain",
+  "homepage": "https://github.com/razor-x/keymaps",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ]
+}
