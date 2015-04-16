@@ -15,7 +15,7 @@ For a usage example, see my [dotfiles].
 Generate the default keymap for your system with
 
 ```bash
-$ setxkbmap -print > xkb/keymap/map.xkb
+$ setxkbmap -print > xkb/keymap/default.xkb
 ```
 
 Install `./xkb` to `~/.config/xkb`.
@@ -23,7 +23,7 @@ Install `./xkb` to `~/.config/xkb`.
 Load a keymap with
 
 ```bash
-$ xkbcomp -I$HOME/.config/xkb $HOME/.config/xkb/keymap/map.xkb $DISPLAY
+$ xkbcomp -I$HOME/.config/xkb $HOME/.config/xkb/keymap/default.xkb $DISPLAY
 ```
 
 ## License
