@@ -10,6 +10,22 @@ For a usage example, see my [dotfiles].
 
 [dotfiles]: https://github.com/razor-x/dotfiles
 
+## Installation and Usage
+
+Generate the default keymap for your system with
+
+```bash
+$ setxkbmap -print > xkb/keymap/map.xkb
+```
+
+Install `./xkb` to `~/.config/xkb`.
+
+Load a keymap with
+
+```bash
+$ xkbcomp -I$HOME/.config/xkb $HOME/.config/xkb/keymap/map.xkb $DISPLAY
+```
+
 ## License
 
 This is free and unencumbered software released into the public domain.
