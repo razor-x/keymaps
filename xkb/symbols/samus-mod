@@ -1,0 +1,4 @@
+partial modifier_keys
+xkb_symbols "lwin_escape" {
+  replace key <LWIN> { [ Escape ] };
+};
