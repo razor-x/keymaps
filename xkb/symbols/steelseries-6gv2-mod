@@ -1,0 +1,5 @@
+partial modifier_keys
+xkb_symbols "rwin_escape" {
+  replace key <RWIN> { [ Alt_L ] };
+  replace key <ESC> { [ Alt_L ] };
+};

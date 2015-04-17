@@ -6,6 +6,7 @@ xkb_keymap {
   xkb_symbols   { include "pc+us+inet(evdev)"
                   include "capslock(escape)"
                   include "altwin(swap_lalt_lwin)"
+                  include "steelseries-6gv2-mod(rwin_escape)"
                 };
   xkb_geometry  { include "pc(pc104)" };
 };
