@@ -5,6 +5,7 @@ xkb_keymap {
   xkb_compat    { include "complete" };
   xkb_symbols   { include "pc+us+inet(evdev)"
                   include "capslock(escape)"
+                  include "altwin(swap_lalt_lwin)"
                 };
   xkb_geometry  { include "pc(pc104)" };
 };
