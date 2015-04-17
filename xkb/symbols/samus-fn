@@ -1,0 +1,4 @@
+partial function_keys
+xkb_symbols "fn" {
+  key <FK03> { [ XF86Refresh ] };
+};

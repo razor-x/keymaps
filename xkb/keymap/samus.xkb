@@ -6,6 +6,7 @@ xkb_keymap {
   xkb_symbols   { include "pc+us+inet(evdev)"
                   include "altwin(swap_lalt_lwin)"
                   include "samus-mod(lwin_escape)"
+                  include "samus-fn(fn)"
                 };
   xkb_geometry  { include "pc(pc104)" };
 };
