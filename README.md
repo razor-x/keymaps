@@ -18,7 +18,7 @@ Generate the default keymap for your system with
 $ setxkbmap -print > xkb/keymap/default.xkb
 ```
 
-Install `./xkb` to `~/.config/xkb`.
+Install `xkb` to `~/.config/xkb`.
 
 Load a keymap with
 
