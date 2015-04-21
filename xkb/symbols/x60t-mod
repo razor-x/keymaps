@@ -1,0 +1,4 @@
+partial modifier_keys
+xkb_symbols "escape_lwin" {
+  replace key <ESC> { [ Alt_L ] };
+};
