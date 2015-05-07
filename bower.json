@@ -12,7 +12,7 @@
     "xkb"
   ],
   "license": "Public Domain",
-  "homepage": "https://github.com/razor-x/keymaps",
+  "homepage": "https://github.com/rxrc/keymaps",
   "private": true,
   "ignore": [
     "**/.*"

@@ -8,7 +8,7 @@ These are my Xorg keymaps for the X KeyBoard extension (XKB).
 
 For a usage example, see my [dotfiles].
 
-[dotfiles]: https://github.com/razor-x/dotfiles
+[dotfiles]: https://github.com/rxrc/dotfiles
 
 ## Installation and Usage
 
