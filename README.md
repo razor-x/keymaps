@@ -1,5 +1,6 @@
 # Keymaps
 
+[![Release](https://img.shields.io/github/release/rxrc/keymaps.svg)](https://github.com/rxrc/keymaps/releases)
 [![The Unlicense](https://img.shields.io/github/license/rxrc/keymaps.svg)](./LICENSE.txt)
 
 ## Description
