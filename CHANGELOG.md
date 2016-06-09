@@ -5,7 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
-## [Unreleased]
+## [1.1.0] / 2016-06-08
 
 ### Changed
 
@@ -16,4 +16,5 @@ This change log follows the conventions of
 
 - Initial release.
 
-[Unreleased]: https://github.com/rxrc/keymaps/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/rxrc/keymaps/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/rxrc/keymaps/compare/v1.0.0...v1.1.0
