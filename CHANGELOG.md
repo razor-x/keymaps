@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
+## [Unreleased]
+
+- Add keymap for Macbook Pro.
+
 ## [1.1.0] / 2016-06-08
 
 ### Changed
