@@ -5,7 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
-## [Unreleased]
+## [1.3.0] / 2016-09-08
 
 - Map RWIN to ESC on Macbook Pro.
 
@@ -24,6 +24,7 @@ This change log follows the conventions of
 
 - Initial release.
 
-[Unreleased]: https://github.com/rxrc/keymaps/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/rxrc/keymaps/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/rxrc/keymaps/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/rxrc/keymaps/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/rxrc/keymaps/compare/v1.0.0...v1.1.0
