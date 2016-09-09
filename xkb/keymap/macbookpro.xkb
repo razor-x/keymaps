@@ -6,6 +6,7 @@ xkb_keymap {
   xkb_symbols   { include "pc+us+inet(evdev)"
                   include "ctrl(nocaps)"
                   include "macbookpro-mod(lctrl_escape)"
+                  include "macbookpro-mod(rwin_escape)"
                   include "macbookpro-mod(lalt_escape)"
                   include "macbookpro-mod(escape_lalt)"
                 };

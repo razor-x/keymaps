@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
+## [Unreleased]
+
+- Map RWIN to ESC on Macbook Pro.
+
 ## [1.2.0] / 2016-09-04
 
 - Add keymap for Macbook Pro.
