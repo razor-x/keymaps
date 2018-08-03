@@ -1,0 +1,14 @@
+// Matebook X
+xkb_keymap {
+  xkb_keycodes  { include "evdev+aliases(qwerty)" };
+  xkb_types     { include "complete" };
+  xkb_compat    { include "complete" };
+  xkb_symbols   { include "pc+us+inet(evdev)"
+                  include "ctrl(nocaps)"
+                  include "matebook-mod(lctrl_escape)"
+                  include "matebook-mod(rwin_escape)"
+                  include "altwin(swap_lalt_lwin)"
+                  include "matebook-mod(escape_lalt)"
+                };
+  xkb_geometry  { include "pc(pc104)" };
+};

@@ -1,0 +1,13 @@
+partial modifier_keys
+xkb_symbols "lctrl_escape" {
+  replace key <LCTL> { [ Escape ] };
+};
+xkb_symbols "rwin_escape" {
+  replace key <RWIN> { [ Escape ] };
+};
+xkb_symbols "lalt_escape" {
+  replace key <LALT> { [ Escape ] };
+};
+xkb_symbols "escape_lalt" {
+  replace key <ESC> { [ Alt_L ] };
+};
