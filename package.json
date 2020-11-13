@@ -1,0 +1,20 @@
+{
+  "name": "@rxrc/keymaps",
+  "version": "0.0.0",
+  "description": "Xorg keymaps.",
+  "homepage": "https://github.com/rxrc/keymaps",
+  "bugs": "https://github.com/rxrc/keymaps/issues",
+  "repository": "rxrc/keymaps",
+  "license": "Unlicense",
+  "author": {
+    "name": "Evan Sosenko",
+    "email": "razorx@evansosenko.com"
+  },
+  "files": [
+    "xkb"
+  ],
+  "scripts": {
+    "test": "true",
+    "postversion": "git push && git push --tags"
+  }
+}
