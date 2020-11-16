@@ -7,19 +7,27 @@ This change log follows the conventions of
 
 ## [2.0.1] / 2020-11-16
 
+### Changed
+
 - Update .gitignore.
 
 ## [2.0.0] / 2020-11-13
+
+### Changed
 
 - Release to npm.
 
 ## [1.3.0] / 2016-09-08
 
+### Changed
+
 - Map RWIN to ESC on Macbook Pro.
 
 ## [1.2.0] / 2016-09-04
 
-- Add keymap for Macbook Pro.
+### Added
+
+- Keymap for Macbook Pro.
 
 ## [1.1.0] / 2016-06-08
 
